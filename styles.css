@@ -1,0 +1,39 @@
+body{
+    background-color: #222831;
+    color: #eeeeee;
+    font-family: 'Chakra Petch', sans-serif;
+    
+}
+#container{
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+h1{
+    font-size: 8rem;
+    margin: 20px;
+}
+#roll-button{
+    font-size: 3rem;
+    background-color: #00adb5;
+    border-radius: 20px;
+    padding: 1.5rem 2rem;
+    margin: 20px;
+}
+#roll-button:hover{
+    background-color: #11bec6;
+    font-size: 3.25rem;
+    transition: all .3s;
+}
+.player{
+    flex: 50%;
+}
+p{
+    font-size: 2rem;
+}
+#dice-container{
+    display: flex;
+    margin: 0 auto;
+    text-align: center;
+    width: 70%;
+}
