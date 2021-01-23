@@ -1,2 +1,2 @@
 # NewDiceeGame
-Newer version of the dicee game
+Newer version of the dicee game created after receiving advice from Trevor
