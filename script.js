@@ -9,7 +9,7 @@ function randomNumber(){
 }
 
 function randomImage(number){
-    return `/images/dice${number}.png`;
+    return `images/dice${number}.png`;
 }
 
 function rollDice(){
